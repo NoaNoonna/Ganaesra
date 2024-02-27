@@ -1,0 +1,154 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://ganaesra.com/web/product/big/202402/de239653e1e130b0a71027af6fd1eff1.jpg",
+            "title":"베리스 레더 자켓",
+            "price":112500,
+            "ordinaire":true,
+            "new":true,
+            "color":["black","brown"]
+
+        },
+        {
+            "id":1,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202402/234d042983541da8ce4201c4df75978c.webp",
+            "title":"오르 트위드 자켓",
+            "price":49600,
+            "ordinaire":false,
+            "new":true,
+            "color":["white","pink","blue"]
+
+        },
+        {
+            "id":2,
+            "img":"https://ganaesra.com/web/product/medium/202401/45fabec4347ac00a7b36687d3e41f73a.webp",
+            "title":"로미 캐시미어 브이넥 니트",
+            "price":42300,
+            "ordinaire":true,
+            "new":true,
+            "color":["pink","blue","gray"]
+
+        },
+        {
+            "id":3,
+            "img":"https://ganaesra.com/web/product/medium/202312/1bb52492a50cc762ec0dbc45a464dd4a.webp",
+            "title":"미티 슬림티셔츠",
+            "price":18700,
+            "ordinaire":true,
+            "new":true,
+            "color":["white","blue","cream", "purple", "navy"]
+
+        },
+        {
+            "id":4,
+            "img":"https://ganaesra.com/web/product/medium/202402/c17f19f7b147c551211eb320ced21e95.webp",
+            "title":"세인 중청 부츠컷 데님",
+            "price":41400,
+            "ordinaire":true,
+            "new":false,
+            "color":["연청","중청","흑청"]
+
+        },
+        {
+            "id":5,
+            "img":"https://ganaesra.com/web/product/medium/202401/a5b25d3a66abc2549373eea391a31788.webp",
+            "title":"마일드 새먼 가디건",
+            "price":57000,
+            "ordinaire":true,
+            "new":false,
+            "color":["gray","beige","ivory"]
+
+        },
+        {
+            "id":6,
+            "img":"https://ganaesra.com/web/product/medium/202402/02dbf3c239d62c361b9997a21659319a.webp",
+            "title":"빌레 스트라이프 셔츠",
+            "price":40500,
+            "ordinaire":true,
+            "new":false,
+            "color":["pink","blue","navy"]
+
+        },
+        {
+            "id":7,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202402/6f01ccd2ecdf532d9b611ffb08380985.webp",
+            "title":"셀티 블라우스",
+            "price":45900,
+            "ordinaire":false,
+            "new":true,
+            "color":["black","ivory"]
+
+        },
+        {
+            "id":8,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202402/4e22f243560c2231aee1a8701c227d57.webp",
+            "title":"재클린 자켓+테르 슬랙스",
+            "price":118800,
+            "ordinaire":true,
+            "new":true,
+            "color":["black","gray","brown"]
+
+        },
+        {
+            "id":9,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202402/d08a0a0dec3835a4f89514169264b5f9.webp",
+            "title":"노마 쇼츠",
+            "price":37800,
+            "ordinaire":true,
+            "new":true,
+            "color":["black","beige"]
+
+        },
+        {
+            "id":10,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202402/5c975311d868d2e37bfb701b0a43fa59.webp",
+            "title":"디핀 중청 데님",
+            "price":42800,
+            "ordinaire":true,
+            "new":false,
+            "color":["중청"]
+
+        },
+        {
+            "id":11,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202402/d845c357cd9f3db139ee0394c6c36cc8.webp",
+            "title":"로니 스커트",
+            "price":28800,
+            "ordinaire":false,
+            "new":true,
+            "color":["ivory","black","beige", "pink"]
+
+        },
+        {
+            "id":12,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202401/8733563708f7957446d5ac36938bd86f.webp",
+            "title":"라이트 티셔츠",
+            "price":19800,
+            "ordinaire":true,
+            "new":true,
+            "color":["cream","black", "beige", "pink", "blue"]
+
+        },
+        {
+            "id":13,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202401/7dd52641a96af679b766e66c7fdef30e.webp",
+            "title":"누오스 데님",
+            "price":41400,
+            "ordinaire":false,
+            "new":false,
+            "color":["연청","중청"]
+
+        },
+        {
+            "id":14,
+            "img":"https://cafe24img.poxo.com/ganaesra/web/product/medium/202401/f149bcf44007f4f9fa324d5784998fc6.webp",
+            "title":"노튼 골지 카라가디건",
+            "price":52200,
+            "ordinaire":false,
+            "new":false,
+            "color":["pink","ivory", "lightblue"]
+
+        }
+    ]
+}
