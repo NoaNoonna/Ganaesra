@@ -10,7 +10,7 @@ const ProductAll = () => {
     const getProductList = async() => {
       let keyword = query.get("q") || "";
       console.log("keyword?", keyword);
-      let url = `http://localhost:5000/products?q=${keyword}`;
+      let url = `https://my-json-server.typicode.com/NoaNoonna/Ganaesra/products?q=${keyword}`;
       let response = await fetch(url);
       console.log("response", response);
       let data = await response.json();
